@@ -1,0 +1,209 @@
+#section1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.season {
+  order: -1;
+}
+.servers-ul {
+  list-style: none;
+  font-size: 10px;
+}
+.season1:hover {
+  color: blanchedalmond;
+  transition: 0.8s;
+  cursor: pointer;
+}
+
+.season2:hover {
+  color: blanchedalmond;
+  transition: 0.8s;
+  cursor: pointer;
+}
+
+.season3:hover {
+  color: blanchedalmond;
+  transition: 0.8s;
+  cursor: pointer;
+}
+
+.season4:hover {
+  color: blanchedalmond;
+  transition: 0.8s;
+  cursor: pointer;
+}
+
+.season5:hover {
+  color: blanchedalmond;
+  transition: 0.8s;
+  cursor: pointer;
+}
+
+.season6:hover {
+  color: blanchedalmond;
+  transition: 0.8s;
+  cursor: pointer;
+}
+
+.season1 {
+  border: 3px solid #961414;
+  padding: 12px 15px;
+  border-radius: 80px;
+  margin-bottom: 10px;
+}
+
+.season2 {
+  border: 3px solid #961414;
+  padding: 12px 15px;
+  border-radius: 80px;
+  margin-bottom: 10px;
+}
+
+.season3 {
+  border: 3px solid #961414;
+  padding: 12px 15px;
+  border-radius: 80px;
+  margin-bottom: 10px;
+}
+
+.season4 {
+  border: 3px solid #961414;
+  padding: 12px 15px;
+  border-radius: 80px;
+  margin-bottom: 10px;
+}
+
+.season5 {
+  border: 3px solid #961414;
+  padding: 12px 15px;
+  border-radius: 80px;
+  margin-bottom: 10px;
+}
+
+.season6 {
+  border: 3px solid #961414;
+  padding: 12px 15px;
+  border-radius: 80px;
+  margin-bottom: 10px;
+}
+
+#episode {
+  border: 3px solid #961414;
+  border-radius: 20px;
+  padding: 16px 50px;
+  text-align: center;
+  color: #961414;
+  max-width: fit-content;
+  margin-top: 2%;
+  margin-bottom: 1%;
+}
+
+.episodename {
+  display: flex;
+  justify-content: center;
+}
+
+.section2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.server {
+  color: blanchedalmond;
+  cursor: pointer;
+}
+
+.beforep,
+.afterep {
+  color: blanchedalmond;
+  border: 3px solid #961414;
+  padding: 1% 2%;
+  border-radius: 20px;
+  font-size: 15px;
+  text-align: center;
+  background-color: #961414;
+  margin-left: 5%;
+  margin-top: 1%;
+}
+
+.beforetext,
+.aftertext {
+  background-color: #961414;
+}
+
+.beforep:hover {
+  cursor: pointer;
+}
+
+.afterep:hover {
+  cursor: pointer;
+}
+
+@media (max-width: 1110px) {
+  iframe {
+    width: 700px;
+  }
+}
+
+@media (max-width: 920px) {
+  iframe {
+    width: 500px;
+  }
+}
+
+@media (max-width: 710px) {
+  iframe {
+    width: 350px;
+    height: 330px;
+  }
+}
+
+@media (max-width: 550px) {
+  iframe {
+    width: 300px;
+  }
+  .server {
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 4%;
+  }
+  .server1 {
+    padding-left: 3%;
+  }
+  .season1 {
+    text-align: center;
+    padding: 5px;
+  }
+  .season2 {
+    text-align: center;
+    padding: 5px;
+  }
+  .season3 {
+    text-align: center;
+    padding: 5px;
+  }
+  .season4 {
+    text-align: center;
+    padding: 5px;
+  }
+  .season5 {
+    text-align: center;
+    padding: 5px;
+  }
+  .season6 {
+    text-align: center;
+    padding: 5px;
+  }
+}
+
+@media (max-width: 400px) {
+  .season {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+}

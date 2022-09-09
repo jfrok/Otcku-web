@@ -1,0 +1,30 @@
+.db{
+    position: relative;
+    margin-top: auto;
+    
+    
+}
+td{
+    color: aliceblue;
+}
+.Mname{
+    margin: 10px;
+}
+.wrp{
+position: relative;
+overflow: hidden;
+padding: 0;
+}
+.wrp:before{
+
+    display: block;
+    padding: 56.25%;
+}
+.wrp iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+}

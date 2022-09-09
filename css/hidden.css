@@ -1,0 +1,158 @@
+/* popup box for message start */
+
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: none;
+}
+
+.popup {
+  margin: 70px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+  width: 30%;
+  position: relative;
+  transition: none;
+}
+
+.popup .close {
+  position: absolute;
+  top: 5px;
+  right: 20px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+
+.popup .close:hover {
+  color: #ffd335;
+}
+
+a.return-login {
+  text-decoration: underline;
+}
+
+a.return-login:hover {
+  color: #ffd335;
+}
+
+/* popup box for message end */
+
+/* item start */
+
+.single-content.item table.item-table {
+  width: 100%;
+}
+
+.single-content.item table.item-table {
+  text-align: center;
+  width: 100%;
+  border: 1px solid #423d3d;
+  border-collapse: collapse;
+  box-shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+.single-content.item table.item-table th,
+.single-content.item table.item-table td {
+  padding: 10px;
+}
+
+.item-action-wrap {
+  text-align: left;
+  padding-left: 5px;
+}
+
+form.addnewitem-section {
+  text-align: right;
+}
+
+button.btn-submit.item-page {
+  width: 45%;
+}
+
+button.btn-submit.item-page .fas {
+  font-size: 20px;
+}
+
+th.item-action {
+  width: 90px;
+}
+
+.popup.item {
+  width: 50%;
+  padding-left: 40px;
+}
+
+.popup.item input {
+  height: 30px;
+  width: 90%;
+  border-radius: 10px;
+  border: 1px solid #bbbbbb;
+  padding: 0px 5px;
+}
+
+.popup.item textarea {
+  border-radius: 10px;
+  border: 1px solid #bbbbbb;
+}
+
+.popup.item form select {
+  border-radius: 10px;
+  border: 1px solid #bbbbbb;
+  width: 93.5%;
+  height: 32px;
+}
+
+.popup.item .grid-left {
+  display: inline-block;
+  width: 50%;
+  float: left;
+}
+
+.popup.item .grid-right {
+  display: inline-block;
+  width: 50%;
+  float: right;
+}
+
+.grid-full {
+  display: inline-block;
+  width: 100%;
+}
+
+.popup.item input.upload-file-pic {
+  border: none;
+  padding: 0px;
+  border-radius: 0px;
+  width: 35%;
+}
+
+p.upload-pic-title {
+  margin: 0px;
+  display: inline;
+  font-weight: 600;
+}
+
+button.btn-submit {
+  height: 39px;
+  background: black;
+  border: none;
+  padding: 10px;
+  font-weight: 600;
+  color: white;
+  border-radius: 5px;
+  width: 20%;
+}
+
+button.btn-submit:hover {
+  color: black;
+  background: #ffd335;
+}
+/* item end */

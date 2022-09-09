@@ -1,0 +1,959 @@
+[11-Jun-2021 14:55:19 America/New_York] PHP Notice:  Array to string conversion in /home/ootcciwb/public_html/user/index.php on line 102
+[02-Aug-2021 21:22:07 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcciwb/public_html/user/index.php:171) in /home/ootcciwb/public_html/user/index.php on line 176
+[02-Jan-2022 14:36:59 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/index.php:22) in /home/ootcnttg/public_html/user/index.php on line 176
+[02-Jan-2022 14:37:45 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/index.php:171) in /home/ootcnttg/public_html/user/index.php on line 176
+[02-Jan-2022 14:43:57 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/index.php:171) in /home/ootcnttg/public_html/user/index.php on line 176
+[02-Jan-2022 14:44:32 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/index.php:171) in /home/ootcnttg/public_html/user/index.php on line 176
+[02-Jan-2022 15:06:05 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/index.php:171) in /home/ootcnttg/public_html/user/index.php on line 176
+[02-Jan-2022 15:08:23 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/index.php:171) in /home/ootcnttg/public_html/user/index.php on line 176
+[02-Jan-2022 15:14:26 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/index.php:171) in /home/ootcnttg/public_html/user/index.php on line 176
+[02-Jan-2022 15:38:51 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/index.php:171) in /home/ootcnttg/public_html/user/index.php on line 176
+[02-Jan-2022 15:43:30 America/New_York] PHP Notice:  Undefined variable: result in /home/ootcnttg/public_html/user/index.php on line 204
+[02-Jan-2022 15:43:30 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/index.php:22) in /home/ootcnttg/public_html/user/index.php on line 216
+[02-Jan-2022 15:44:07 America/New_York] PHP Notice:  Undefined variable: result in /home/ootcnttg/public_html/user/index.php on line 204
+[02-Jan-2022 15:44:07 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/index.php:22) in /home/ootcnttg/public_html/user/index.php on line 216
+[02-Jan-2022 15:44:47 America/New_York] PHP Notice:  Undefined variable: result in /home/ootcnttg/public_html/user/index.php on line 204
+[02-Jan-2022 15:45:40 America/New_York] PHP Notice:  Undefined variable: result in /home/ootcnttg/public_html/user/index.php on line 188
+[02-Jan-2022 15:48:51 America/New_York] PHP Notice:  Undefined variable: result in /home/ootcnttg/public_html/user/index.php on line 184
+[27-Jan-2022 14:07:20 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 15:00:33 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 15:10:56 America/New_York] PHP Warning:  move_uploaded_file(file/IMG-61f2fc5091d436.37761352.jpeg): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/upload-script.php on line 33
+[27-Jan-2022 15:10:56 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpexbJZH' to 'file/IMG-61f2fc5091d436.37761352.jpeg' in /home/ootcnttg/public_html/user/upload-script.php on line 33
+[27-Jan-2022 15:10:57 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 15:12:43 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 15:15:54 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 15:16:00 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 15:16:43 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 15:16:47 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 15:16:49 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 15:23:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on string in /home/ootcnttg/public_html/user/upload-script.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[27-Jan-2022 15:24:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on string in /home/ootcnttg/public_html/user/upload-script.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[27-Jan-2022 15:25:42 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 15:48:12 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 15:52:23 America/New_York] PHP Notice:  Undefined variable: database in /home/ootcnttg/public_html/user/upload-script.php on line 38
+[27-Jan-2022 15:52:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ootcnttg/public_html/user/upload-script.php on line 38
+[27-Jan-2022 15:52:24 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 16:36:26 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ootcnttg/public_html/user/upload-script.php on line 38
+[27-Jan-2022 16:36:27 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/view.php on line 33
+[27-Jan-2022 16:36:27 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ootcnttg/public_html/user/view.php on line 33
+[27-Jan-2022 16:36:27 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 16:42:17 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/view.php on line 33
+[27-Jan-2022 16:42:17 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ootcnttg/public_html/user/view.php on line 33
+[27-Jan-2022 16:42:17 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 16:44:14 America/New_York] PHP Notice:  Undefined variable: add in /home/ootcnttg/public_html/user/upload-script.php on line 54
+[27-Jan-2022 16:46:25 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/view.php on line 33
+[27-Jan-2022 16:46:25 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ootcnttg/public_html/user/view.php on line 33
+[27-Jan-2022 16:46:25 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 16:48:15 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/view.php on line 33
+[27-Jan-2022 16:48:15 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ootcnttg/public_html/user/view.php on line 33
+[27-Jan-2022 16:48:15 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 16:48:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/ootcnttg/public_html/user/upload-script.php on line 38
+[27-Jan-2022 16:48:31 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/view.php on line 33
+[27-Jan-2022 16:48:31 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ootcnttg/public_html/user/view.php on line 33
+[27-Jan-2022 16:48:31 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 17:06:41 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 17:09:20 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 17:13:53 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 17:14:43 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 17:14:48 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 17:15:07 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 17:16:06 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 17:17:28 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 17:17:32 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 17:18:19 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[27-Jan-2022 17:21:47 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/ootcnttg/public_html/user/view.php on line 45
+[27-Jan-2022 17:22:40 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 07:11:00 America/New_York] PHP Notice:  Undefined variable: database in /home/ootcnttg/public_html/user/upload-script.php on line 37
+[28-Jan-2022 07:11:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ootcnttg/public_html/user/upload-script.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 37
+[28-Jan-2022 07:12:24 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/ootcnttg/public_html/user/upload-script.php on line 39
+[28-Jan-2022 07:12:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ootcnttg/public_html/user/upload-script.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 07:14:05 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 37
+[28-Jan-2022 07:14:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ootcnttg/public_html/user/upload-script.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 37
+[28-Jan-2022 07:17:20 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 07:18:00 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 07:20:38 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 07:21:55 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 07:24:26 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 07:27:24 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 07:33:46 America/New_York] PHP Warning:  include(upload-script): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/index.php on line 357
+[28-Jan-2022 07:33:46 America/New_York] PHP Warning:  include(upload-script): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/index.php on line 357
+[28-Jan-2022 07:33:46 America/New_York] PHP Warning:  include(): Failed opening 'upload-script' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ootcnttg/public_html/user/index.php on line 357
+[28-Jan-2022 07:36:13 America/New_York] PHP Warning:  include(upload-script): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/index.php on line 357
+[28-Jan-2022 07:36:13 America/New_York] PHP Warning:  include(upload-script): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/index.php on line 357
+[28-Jan-2022 07:36:13 America/New_York] PHP Warning:  include(): Failed opening 'upload-script' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ootcnttg/public_html/user/index.php on line 357
+[28-Jan-2022 07:36:17 America/New_York] PHP Warning:  include(upload-script): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/index.php on line 357
+[28-Jan-2022 07:36:17 America/New_York] PHP Warning:  include(upload-script): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/index.php on line 357
+[28-Jan-2022 07:36:17 America/New_York] PHP Warning:  include(): Failed opening 'upload-script' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ootcnttg/public_html/user/index.php on line 357
+[28-Jan-2022 07:36:45 America/New_York] PHP Warning:  include(upload-script): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/index.php on line 357
+[28-Jan-2022 07:36:45 America/New_York] PHP Warning:  include(upload-script): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/index.php on line 357
+[28-Jan-2022 07:36:45 America/New_York] PHP Warning:  include(): Failed opening 'upload-script' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ootcnttg/public_html/user/index.php on line 357
+[28-Jan-2022 07:37:33 America/New_York] PHP Warning:  include(upload-script): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/index.php on line 357
+[28-Jan-2022 07:37:33 America/New_York] PHP Warning:  include(upload-script): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/index.php on line 357
+[28-Jan-2022 07:37:33 America/New_York] PHP Warning:  include(): Failed opening 'upload-script' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ootcnttg/public_html/user/index.php on line 357
+[28-Jan-2022 07:40:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/ootcnttg/public_html/user/upload-script.php on line 39
+[28-Jan-2022 07:40:02 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 07:43:28 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/ootcnttg/public_html/user/upload-script.php on line 39
+[28-Jan-2022 07:43:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ootcnttg/public_html/user/upload-script.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 07:58:20 America/New_York] PHP Notice:  Undefined variable: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 39
+[28-Jan-2022 07:58:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/ootcnttg/public_html/user/upload-script.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 39
+[28-Jan-2022 08:00:19 America/New_York] PHP Notice:  Undefined variable: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 39
+[28-Jan-2022 08:00:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/ootcnttg/public_html/user/upload-script.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 39
+[28-Jan-2022 08:02:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/ootcnttg/public_html/user/upload-script.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 39
+[28-Jan-2022 08:03:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/ootcnttg/public_html/user/upload-script.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 39
+[28-Jan-2022 08:03:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ootcnttg/public_html/user/upload-script.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 38
+[28-Jan-2022 08:04:34 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/ootcnttg/public_html/user/upload-script.php on line 39
+[28-Jan-2022 08:04:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ootcnttg/public_html/user/upload-script.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 08:04:39 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/ootcnttg/public_html/user/upload-script.php on line 39
+[28-Jan-2022 08:04:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ootcnttg/public_html/user/upload-script.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 08:06:31 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/ootcnttg/public_html/user/upload-script.php on line 39
+[28-Jan-2022 08:06:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ootcnttg/public_html/user/upload-script.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 08:06:48 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/ootcnttg/public_html/user/upload-script.php on line 39
+[28-Jan-2022 08:06:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ootcnttg/public_html/user/upload-script.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 08:07:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ootcnttg/public_html/user/upload-script.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 39
+[28-Jan-2022 08:08:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ootcnttg/public_html/user/upload-script.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 38
+[28-Jan-2022 08:12:28 America/New_York] PHP Notice:  Undefined variable: sql in /home/ootcnttg/public_html/user/upload-script.php on line 37
+[28-Jan-2022 08:12:28 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ootcnttg/public_html/user/upload-script.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 37
+[28-Jan-2022 08:12:52 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 08:15:28 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 08:44:48 America/New_York] PHP Notice:  Undefined variable: database in /home/ootcnttg/public_html/user/upload-script.php on line 37
+[28-Jan-2022 08:44:48 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ootcnttg/public_html/user/upload-script.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 37
+[28-Jan-2022 08:45:12 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ootcnttg/public_html/user/upload-script.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 37
+[28-Jan-2022 08:51:45 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ootcnttg/public_html/user/upload-script.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 37
+[28-Jan-2022 08:51:54 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ootcnttg/public_html/user/upload-script.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 37
+[28-Jan-2022 08:52:27 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ootcnttg/public_html/user/upload-script.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 37
+[28-Jan-2022 08:52:34 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ootcnttg/public_html/user/upload-script.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 37
+[28-Jan-2022 08:55:36 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 10
+[28-Jan-2022 08:55:36 America/New_York] PHP Notice:  Undefined variable: connection in /home/ootcnttg/public_html/user/upload-script.php on line 11
+[28-Jan-2022 08:55:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ootcnttg/public_html/user/upload-script.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 11
+[28-Jan-2022 08:56:00 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 10
+[28-Jan-2022 08:56:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/ootcnttg/public_html/user/upload-script.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 12
+[28-Jan-2022 08:59:15 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ootcnttg/public_html/user/upload-script.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 10
+[28-Jan-2022 09:00:30 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:00:30 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/ootcnttg/public_html/user/upload-script.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:04:34 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 42
+[28-Jan-2022 09:04:34 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ootcnttg/public_html/user/upload-script.php on line 42
+[28-Jan-2022 09:04:34 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 09:05:25 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 42
+[28-Jan-2022 09:05:25 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ootcnttg/public_html/user/upload-script.php on line 42
+[28-Jan-2022 09:05:26 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 09:06:46 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:06:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ootcnttg/public_html/user/upload-script.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:08:55 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:08:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ootcnttg/public_html/user/upload-script.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:09:10 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:09:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ootcnttg/public_html/user/upload-script.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:09:52 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:09:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ootcnttg/public_html/user/upload-script.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:09:58 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:09:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ootcnttg/public_html/user/upload-script.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:10:30 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:10:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ootcnttg/public_html/user/upload-script.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:11:53 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 09:19:44 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 7
+[28-Jan-2022 09:19:44 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:19:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ootcnttg/public_html/user/upload-script.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:20:40 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 7
+[28-Jan-2022 09:20:40 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:20:40 America/New_York] PHP Notice:  Undefined variable: sql in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:20:40 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:20:40 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 43
+[28-Jan-2022 09:20:40 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 09:22:47 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 7
+[28-Jan-2022 09:22:47 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:22:47 America/New_York] PHP Notice:  Undefined variable: sql in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:22:47 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:22:47 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:22:47 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 43
+[28-Jan-2022 09:22:47 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 09:23:48 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 7
+[28-Jan-2022 09:23:48 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:23:48 America/New_York] PHP Notice:  Undefined variable: sql in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:23:48 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:23:48 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:23:48 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 43
+[28-Jan-2022 09:23:48 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 09:25:03 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 7
+[28-Jan-2022 09:25:03 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:25:03 America/New_York] PHP Notice:  Undefined variable: sql in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:25:03 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:25:03 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:25:03 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 09:27:16 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 7
+[28-Jan-2022 09:27:16 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:27:16 America/New_York] PHP Notice:  Undefined variable: sql in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:27:16 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:27:16 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:27:16 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 43
+[28-Jan-2022 09:27:16 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 09:28:24 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 7
+[28-Jan-2022 09:28:24 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:28:24 America/New_York] PHP Notice:  Undefined variable: sql in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:28:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:28:24 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:28:24 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 43
+[28-Jan-2022 09:28:24 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 09:30:34 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 13
+[28-Jan-2022 09:30:34 America/New_York] PHP Notice:  Undefined variable: sql in /home/ootcnttg/public_html/user/upload-script.php on line 14
+[28-Jan-2022 09:30:34 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/ootcnttg/public_html/user/upload-script.php on line 14
+[28-Jan-2022 09:30:34 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:30:34 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 43
+[28-Jan-2022 09:30:35 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 09:32:11 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 13
+[28-Jan-2022 09:32:11 America/New_York] PHP Notice:  Undefined variable: sql in /home/ootcnttg/public_html/user/upload-script.php on line 14
+[28-Jan-2022 09:32:11 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/ootcnttg/public_html/user/upload-script.php on line 14
+[28-Jan-2022 09:32:11 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:32:11 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 09:33:38 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 13
+[28-Jan-2022 09:33:38 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:33:38 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 43
+[28-Jan-2022 09:33:38 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 09:34:35 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 13
+[28-Jan-2022 09:34:35 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:34:35 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 43
+[28-Jan-2022 09:34:36 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 09:36:49 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 38
+[28-Jan-2022 09:36:49 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:36:49 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 44
+[28-Jan-2022 09:36:49 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 09:38:04 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 38
+[28-Jan-2022 09:38:04 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 09:38:53 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 38
+[28-Jan-2022 09:38:53 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 09:41:24 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 38
+[28-Jan-2022 09:41:25 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 09:45:13 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:45:13 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 9
+[28-Jan-2022 09:45:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ootcnttg/public_html/user/upload-script.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 9
+[28-Jan-2022 09:46:57 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:46:57 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 9
+[28-Jan-2022 09:46:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ootcnttg/public_html/user/upload-script.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 9
+[28-Jan-2022 09:47:29 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:47:29 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 9
+[28-Jan-2022 09:47:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ootcnttg/public_html/user/upload-script.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 9
+[28-Jan-2022 09:48:20 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:48:20 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 9
+[28-Jan-2022 09:48:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ootcnttg/public_html/user/upload-script.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 9
+[28-Jan-2022 09:49:04 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:49:04 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 9
+[28-Jan-2022 09:49:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ootcnttg/public_html/user/upload-script.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/upload-script.php on line 9
+[28-Jan-2022 09:50:23 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:50:23 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 9
+[28-Jan-2022 09:50:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ootcnttg/public_html/user/upload-script.php on line 9
+[28-Jan-2022 09:50:23 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:50:24 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 09:54:12 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:54:12 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 9
+[28-Jan-2022 09:54:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ootcnttg/public_html/user/upload-script.php on line 9
+[28-Jan-2022 09:54:12 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:54:12 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/upload-script.php on line 44
+[28-Jan-2022 09:54:12 America/New_York] PHP Notice:  Trying to get property 'ID' of non-object in /home/ootcnttg/public_html/user/upload-script.php on line 44
+[28-Jan-2022 09:54:12 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 09:55:18 America/New_York] PHP Notice:  Undefined variable: userID in /home/ootcnttg/public_html/user/upload-script.php on line 8
+[28-Jan-2022 09:55:18 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/upload-script.php on line 9
+[28-Jan-2022 09:55:18 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ootcnttg/public_html/user/upload-script.php on line 9
+[28-Jan-2022 09:55:18 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 40
+[28-Jan-2022 09:55:18 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ootcnttg/public_html/user/view.php on line 35
+[28-Jan-2022 09:58:08 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[28-Jan-2022 10:00:18 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[28-Jan-2022 10:54:46 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[28-Jan-2022 11:03:55 America/New_York] PHP Notice:  Undefined property: stdClass::$DATE in /home/ootcnttg/public_html/user/index.php on line 389
+[28-Jan-2022 11:45:45 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[28-Jan-2022 11:47:46 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[28-Jan-2022 12:09:33 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[28-Jan-2022 14:24:11 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[28-Jan-2022 15:16:01 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 180
+[28-Jan-2022 15:16:01 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 229
+[28-Jan-2022 15:16:01 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 230
+[28-Jan-2022 15:16:03 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 180
+[28-Jan-2022 15:16:03 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 229
+[28-Jan-2022 15:16:03 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 230
+[28-Jan-2022 15:17:01 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 181
+[28-Jan-2022 15:17:01 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 230
+[28-Jan-2022 15:17:01 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 231
+[28-Jan-2022 15:17:04 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 181
+[28-Jan-2022 15:17:04 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 230
+[28-Jan-2022 15:17:04 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 231
+[28-Jan-2022 15:44:08 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[28-Jan-2022 15:48:45 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:193) in /home/ootcnttg/public_html/user/profile.php on line 214
+[28-Jan-2022 15:51:16 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:193) in /home/ootcnttg/public_html/user/profile.php on line 214
+[28-Jan-2022 15:51:57 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:193) in /home/ootcnttg/public_html/user/profile.php on line 214
+[28-Jan-2022 15:53:04 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:193) in /home/ootcnttg/public_html/user/profile.php on line 214
+[28-Jan-2022 15:53:57 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:193) in /home/ootcnttg/public_html/user/profile.php on line 209
+[28-Jan-2022 15:54:14 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:193) in /home/ootcnttg/public_html/user/profile.php on line 209
+[28-Jan-2022 15:54:23 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:193) in /home/ootcnttg/public_html/user/profile.php on line 209
+[28-Jan-2022 15:54:57 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:193) in /home/ootcnttg/public_html/user/profile.php on line 209
+[28-Jan-2022 15:55:07 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:193) in /home/ootcnttg/public_html/user/profile.php on line 209
+[28-Jan-2022 15:55:18 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:193) in /home/ootcnttg/public_html/user/profile.php on line 209
+[28-Jan-2022 15:56:12 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:193) in /home/ootcnttg/public_html/user/profile.php on line 214
+[28-Jan-2022 15:56:50 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:193) in /home/ootcnttg/public_html/user/profile.php on line 214
+[28-Jan-2022 16:13:04 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 191
+[28-Jan-2022 16:13:04 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 240
+[28-Jan-2022 16:13:04 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 241
+[28-Jan-2022 16:13:30 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 191
+[28-Jan-2022 16:13:30 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 240
+[28-Jan-2022 16:13:30 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 241
+[28-Jan-2022 16:15:57 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 191
+[28-Jan-2022 16:15:57 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 240
+[28-Jan-2022 16:15:57 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 241
+[28-Jan-2022 16:16:49 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 235
+[28-Jan-2022 16:16:49 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 284
+[28-Jan-2022 16:16:49 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 285
+[28-Jan-2022 16:17:33 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 222
+[28-Jan-2022 16:17:33 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 271
+[28-Jan-2022 16:17:33 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 272
+[28-Jan-2022 16:18:02 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 222
+[28-Jan-2022 16:18:02 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 271
+[28-Jan-2022 16:18:02 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 272
+[28-Jan-2022 16:18:34 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 192
+[28-Jan-2022 16:18:34 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 241
+[28-Jan-2022 16:18:34 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 242
+[28-Jan-2022 16:19:01 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 192
+[28-Jan-2022 16:19:01 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 241
+[28-Jan-2022 16:19:01 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 242
+[28-Jan-2022 16:28:05 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 221
+[28-Jan-2022 16:28:05 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 309
+[28-Jan-2022 16:28:05 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 310
+[28-Jan-2022 16:28:07 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 221
+[28-Jan-2022 16:28:07 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 309
+[28-Jan-2022 16:28:07 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 310
+[28-Jan-2022 16:28:25 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 221
+[28-Jan-2022 16:28:25 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 285
+[28-Jan-2022 16:28:25 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 286
+[28-Jan-2022 16:30:12 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 221
+[28-Jan-2022 16:30:12 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 285
+[28-Jan-2022 16:30:12 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 286
+[28-Jan-2022 16:30:52 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 226
+[28-Jan-2022 16:30:52 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 290
+[28-Jan-2022 16:30:52 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:6) in /home/ootcnttg/public_html/user/profile.php on line 291
+[28-Jan-2022 16:32:01 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 226
+[28-Jan-2022 16:32:45 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ootcnttg/public_html/user/profile.php on line 301
+[28-Jan-2022 16:32:47 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ootcnttg/public_html/user/profile.php on line 301
+[28-Jan-2022 16:32:49 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ootcnttg/public_html/user/profile.php on line 301
+[28-Jan-2022 16:32:53 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ootcnttg/public_html/user/profile.php on line 301
+[28-Jan-2022 16:32:55 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ootcnttg/public_html/user/profile.php on line 301
+[28-Jan-2022 16:32:57 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ootcnttg/public_html/user/profile.php on line 301
+[28-Jan-2022 16:35:11 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[28-Jan-2022 16:42:45 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 226
+[28-Jan-2022 16:42:45 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 290
+[28-Jan-2022 16:42:45 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:6) in /home/ootcnttg/public_html/user/profile.php on line 291
+[28-Jan-2022 16:43:21 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 226
+[28-Jan-2022 16:43:21 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 227
+[28-Jan-2022 16:43:21 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 291
+[28-Jan-2022 16:43:21 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:6) in /home/ootcnttg/public_html/user/profile.php on line 292
+[28-Jan-2022 17:03:49 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:193) in /home/ootcnttg/public_html/user/profile.php on line 212
+[28-Jan-2022 17:08:48 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 218
+[28-Jan-2022 17:08:48 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 267
+[28-Jan-2022 17:08:48 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 268
+[28-Jan-2022 17:23:42 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 218
+[28-Jan-2022 17:23:42 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 267
+[28-Jan-2022 17:23:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 268
+[28-Jan-2022 17:23:57 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 218
+[28-Jan-2022 17:23:57 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 267
+[28-Jan-2022 17:23:57 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 268
+[28-Jan-2022 17:25:26 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 218
+[28-Jan-2022 17:25:26 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 267
+[28-Jan-2022 17:25:26 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 268
+[28-Jan-2022 17:25:38 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 218
+[28-Jan-2022 17:25:38 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 267
+[28-Jan-2022 17:25:38 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 268
+[28-Jan-2022 17:26:06 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 218
+[28-Jan-2022 17:26:06 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 267
+[28-Jan-2022 17:26:06 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 268
+[28-Jan-2022 17:27:23 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 221
+[28-Jan-2022 17:27:23 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 270
+[28-Jan-2022 17:27:23 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 271
+[28-Jan-2022 17:28:25 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:207) in /home/ootcnttg/public_html/user/profile.php on line 228
+[28-Jan-2022 17:29:33 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 220
+[28-Jan-2022 17:29:33 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 269
+[28-Jan-2022 17:29:33 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 270
+[28-Jan-2022 17:29:35 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 220
+[28-Jan-2022 17:29:35 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 269
+[28-Jan-2022 17:29:35 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 270
+[28-Jan-2022 17:30:04 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:207) in /home/ootcnttg/public_html/user/profile.php on line 228
+[28-Jan-2022 17:34:07 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:207) in /home/ootcnttg/public_html/user/profile.php on line 228
+[28-Jan-2022 17:34:14 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:207) in /home/ootcnttg/public_html/user/profile.php on line 228
+[28-Jan-2022 17:39:29 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:219) in /home/ootcnttg/public_html/user/profile.php on line 240
+[28-Jan-2022 17:40:19 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:219) in /home/ootcnttg/public_html/user/profile.php on line 240
+[28-Jan-2022 17:52:39 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:219) in /home/ootcnttg/public_html/user/profile.php on line 240
+[28-Jan-2022 17:53:39 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:219) in /home/ootcnttg/public_html/user/profile.php on line 240
+[28-Jan-2022 17:56:35 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:219) in /home/ootcnttg/public_html/user/profile.php on line 240
+[28-Jan-2022 18:06:41 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:219) in /home/ootcnttg/public_html/user/profile.php on line 240
+[28-Jan-2022 18:07:44 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:219) in /home/ootcnttg/public_html/user/profile.php on line 240
+[28-Jan-2022 18:08:55 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:219) in /home/ootcnttg/public_html/user/profile.php on line 240
+[28-Jan-2022 18:09:07 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:219) in /home/ootcnttg/public_html/user/profile.php on line 240
+[28-Jan-2022 18:09:55 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:219) in /home/ootcnttg/public_html/user/profile.php on line 239
+[28-Jan-2022 18:10:58 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[28-Jan-2022 18:11:16 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:219) in /home/ootcnttg/public_html/user/profile.php on line 240
+[28-Jan-2022 18:12:43 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:219) in /home/ootcnttg/public_html/user/profile.php on line 240
+[28-Jan-2022 18:14:16 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[28-Jan-2022 18:15:15 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:219) in /home/ootcnttg/public_html/user/profile.php on line 240
+[28-Jan-2022 18:33:02 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[28-Jan-2022 19:21:24 America/New_York] PHP Notice:  Undefined property: stdClass::$ACCOUNT_DATE in /home/ootcnttg/public_html/user/index.php on line 468
+[28-Jan-2022 19:21:42 America/New_York] PHP Notice:  Undefined property: stdClass::$ACCOUNT_DATE in /home/ootcnttg/public_html/user/index.php on line 468
+[28-Jan-2022 19:22:51 America/New_York] PHP Notice:  Undefined property: stdClass::$ACCOUNT_DATE in /home/ootcnttg/public_html/user/index.php on line 468
+[28-Jan-2022 19:25:27 America/New_York] PHP Notice:  Undefined property: stdClass::$ACCOUNT_DATE in /home/ootcnttg/public_html/user/index.php on line 468
+[28-Jan-2022 19:26:06 America/New_York] PHP Notice:  Undefined property: stdClass::$ACCOUNT_DATE in /home/ootcnttg/public_html/user/index.php on line 473
+[28-Jan-2022 19:26:48 America/New_York] PHP Notice:  Undefined property: stdClass::$ADate in /home/ootcnttg/public_html/user/index.php on line 473
+[28-Jan-2022 19:26:51 America/New_York] PHP Notice:  Undefined property: stdClass::$ADate in /home/ootcnttg/public_html/user/index.php on line 473
+[28-Jan-2022 19:26:53 America/New_York] PHP Notice:  Undefined property: stdClass::$ADate in /home/ootcnttg/public_html/user/index.php on line 473
+[28-Jan-2022 19:28:30 America/New_York] PHP Notice:  Undefined property: stdClass::$ACCOUNT_DATE in /home/ootcnttg/public_html/user/index.php on line 473
+[28-Jan-2022 19:32:55 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:225) in /home/ootcnttg/public_html/user/profile.php on line 246
+[28-Jan-2022 19:44:52 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:226) in /home/ootcnttg/public_html/user/profile.php on line 247
+[28-Jan-2022 19:45:04 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:226) in /home/ootcnttg/public_html/user/profile.php on line 247
+[28-Jan-2022 19:45:12 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:226) in /home/ootcnttg/public_html/user/profile.php on line 247
+[28-Jan-2022 19:58:03 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[29-Jan-2022 10:40:32 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:226) in /home/ootcnttg/public_html/user/profile.php on line 247
+[29-Jan-2022 10:41:41 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[29-Jan-2022 10:42:06 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:226) in /home/ootcnttg/public_html/user/profile.php on line 247
+[29-Jan-2022 19:35:41 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[02-Feb-2022 08:28:22 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[02-Feb-2022 08:28:32 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:226) in /home/ootcnttg/public_html/user/profile.php on line 247
+[02-Feb-2022 08:28:38 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:226) in /home/ootcnttg/public_html/user/profile.php on line 247
+[02-Feb-2022 08:28:45 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:226) in /home/ootcnttg/public_html/user/profile.php on line 247
+[02-Feb-2022 08:29:06 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:226) in /home/ootcnttg/public_html/user/profile.php on line 247
+[02-Feb-2022 08:29:10 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:226) in /home/ootcnttg/public_html/user/profile.php on line 247
+[02-Feb-2022 08:29:16 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:226) in /home/ootcnttg/public_html/user/profile.php on line 247
+[02-Feb-2022 15:47:52 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[02-Feb-2022 15:48:02 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:226) in /home/ootcnttg/public_html/user/profile.php on line 247
+[02-Feb-2022 15:48:10 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:226) in /home/ootcnttg/public_html/user/profile.php on line 247
+[02-Feb-2022 15:49:01 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:226) in /home/ootcnttg/public_html/user/profile.php on line 247
+[03-Feb-2022 16:19:07 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[03-Feb-2022 16:19:17 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:226) in /home/ootcnttg/public_html/user/profile.php on line 247
+[03-Feb-2022 16:19:27 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:226) in /home/ootcnttg/public_html/user/profile.php on line 247
+[10-Feb-2022 12:43:36 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:228) in /home/ootcnttg/public_html/user/profile.php on line 259
+[10-Feb-2022 12:49:27 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:228) in /home/ootcnttg/public_html/user/profile.php on line 259
+[10-Feb-2022 12:52:17 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 237
+[10-Feb-2022 12:52:17 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 319
+[10-Feb-2022 12:52:17 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 320
+[10-Feb-2022 12:52:28 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 237
+[10-Feb-2022 12:52:28 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 319
+[10-Feb-2022 12:52:28 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 320
+[10-Feb-2022 12:52:41 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 236
+[10-Feb-2022 12:52:41 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 318
+[10-Feb-2022 12:52:41 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 319
+[10-Feb-2022 12:53:33 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:227) in /home/ootcnttg/public_html/user/profile.php on line 258
+[10-Feb-2022 12:55:25 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 234
+[10-Feb-2022 12:55:25 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 316
+[10-Feb-2022 12:55:25 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 317
+[10-Feb-2022 12:55:28 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 234
+[10-Feb-2022 12:55:28 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 316
+[10-Feb-2022 12:55:28 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 317
+[10-Feb-2022 12:56:33 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:230) in /home/ootcnttg/public_html/user/profile.php on line 295
+[10-Feb-2022 12:57:29 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:230) in /home/ootcnttg/public_html/user/profile.php on line 295
+[10-Feb-2022 12:58:56 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ootcnttg/public_html/user/profile.php on line 228
+[10-Feb-2022 12:58:56 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ootcnttg/public_html/user/profile.php on line 310
+[10-Feb-2022 12:58:56 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:1) in /home/ootcnttg/public_html/user/profile.php on line 311
+[10-Feb-2022 13:00:09 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:229) in /home/ootcnttg/public_html/user/profile.php on line 294
+[10-Feb-2022 13:02:17 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:229) in /home/ootcnttg/public_html/user/profile.php on line 294
+[10-Feb-2022 13:04:21 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:229) in /home/ootcnttg/public_html/user/profile.php on line 294
+[10-Feb-2022 13:04:31 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:229) in /home/ootcnttg/public_html/user/profile.php on line 295
+[10-Feb-2022 13:04:37 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:229) in /home/ootcnttg/public_html/user/profile.php on line 295
+[10-Feb-2022 13:04:40 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:229) in /home/ootcnttg/public_html/user/profile.php on line 295
+[10-Feb-2022 13:05:58 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:229) in /home/ootcnttg/public_html/user/profile.php on line 296
+[10-Feb-2022 13:06:44 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:229) in /home/ootcnttg/public_html/user/profile.php on line 294
+[10-Feb-2022 13:06:51 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:229) in /home/ootcnttg/public_html/user/profile.php on line 294
+[10-Feb-2022 13:07:03 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:229) in /home/ootcnttg/public_html/user/profile.php on line 294
+[16-Feb-2022 18:34:52 America/New_York] PHP Warning:  include(auth.php): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/index.php on line 8
+[16-Feb-2022 18:34:52 America/New_York] PHP Warning:  include(auth.php): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/index.php on line 8
+[16-Feb-2022 18:34:52 America/New_York] PHP Warning:  include(): Failed opening 'auth.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ootcnttg/public_html/user/index.php on line 8
+[16-Feb-2022 18:34:52 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 399
+[16-Feb-2022 18:34:52 America/New_York] PHP Notice:  Trying to get property 'NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 399
+[16-Feb-2022 18:34:52 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 415
+[16-Feb-2022 18:34:52 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 415
+[16-Feb-2022 18:34:52 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 438
+[16-Feb-2022 18:34:52 America/New_York] PHP Notice:  Trying to get property 'EMAIL' of non-object in /home/ootcnttg/public_html/user/index.php on line 438
+[16-Feb-2022 18:34:52 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 447
+[16-Feb-2022 18:34:52 America/New_York] PHP Notice:  Trying to get property 'NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 447
+[16-Feb-2022 18:34:52 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 450
+[16-Feb-2022 18:34:52 America/New_York] PHP Notice:  Trying to get property 'AGE' of non-object in /home/ootcnttg/public_html/user/index.php on line 450
+[16-Feb-2022 18:34:52 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 452
+[16-Feb-2022 18:34:52 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 452
+[16-Feb-2022 18:34:52 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 455
+[16-Feb-2022 18:34:52 America/New_York] PHP Notice:  Trying to get property 'ACCOUNT_DATE' of non-object in /home/ootcnttg/public_html/user/index.php on line 455
+[16-Feb-2022 18:35:55 America/New_York] PHP Warning:  include(auth.php): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/index.php on line 8
+[16-Feb-2022 18:35:55 America/New_York] PHP Warning:  include(auth.php): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/index.php on line 8
+[16-Feb-2022 18:35:55 America/New_York] PHP Warning:  include(): Failed opening 'auth.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ootcnttg/public_html/user/index.php on line 8
+[16-Feb-2022 18:35:55 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 399
+[16-Feb-2022 18:35:55 America/New_York] PHP Notice:  Trying to get property 'NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 399
+[16-Feb-2022 18:35:55 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 415
+[16-Feb-2022 18:35:55 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 415
+[16-Feb-2022 18:35:55 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 438
+[16-Feb-2022 18:35:55 America/New_York] PHP Notice:  Trying to get property 'EMAIL' of non-object in /home/ootcnttg/public_html/user/index.php on line 438
+[16-Feb-2022 18:35:55 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 447
+[16-Feb-2022 18:35:55 America/New_York] PHP Notice:  Trying to get property 'NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 447
+[16-Feb-2022 18:35:55 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 450
+[16-Feb-2022 18:35:55 America/New_York] PHP Notice:  Trying to get property 'AGE' of non-object in /home/ootcnttg/public_html/user/index.php on line 450
+[16-Feb-2022 18:35:55 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 452
+[16-Feb-2022 18:35:55 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 452
+[16-Feb-2022 18:35:55 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 455
+[16-Feb-2022 18:35:55 America/New_York] PHP Notice:  Trying to get property 'ACCOUNT_DATE' of non-object in /home/ootcnttg/public_html/user/index.php on line 455
+[16-Feb-2022 18:35:58 America/New_York] PHP Warning:  include(auth.php): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/index.php on line 8
+[16-Feb-2022 18:35:58 America/New_York] PHP Warning:  include(auth.php): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/index.php on line 8
+[16-Feb-2022 18:35:58 America/New_York] PHP Warning:  include(): Failed opening 'auth.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ootcnttg/public_html/user/index.php on line 8
+[16-Feb-2022 18:35:58 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 399
+[16-Feb-2022 18:35:58 America/New_York] PHP Notice:  Trying to get property 'NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 399
+[16-Feb-2022 18:35:58 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 415
+[16-Feb-2022 18:35:58 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 415
+[16-Feb-2022 18:35:58 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 438
+[16-Feb-2022 18:35:58 America/New_York] PHP Notice:  Trying to get property 'EMAIL' of non-object in /home/ootcnttg/public_html/user/index.php on line 438
+[16-Feb-2022 18:35:58 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 447
+[16-Feb-2022 18:35:58 America/New_York] PHP Notice:  Trying to get property 'NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 447
+[16-Feb-2022 18:35:58 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 450
+[16-Feb-2022 18:35:58 America/New_York] PHP Notice:  Trying to get property 'AGE' of non-object in /home/ootcnttg/public_html/user/index.php on line 450
+[16-Feb-2022 18:35:58 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 452
+[16-Feb-2022 18:35:58 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 452
+[16-Feb-2022 18:35:58 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 455
+[16-Feb-2022 18:35:58 America/New_York] PHP Notice:  Trying to get property 'ACCOUNT_DATE' of non-object in /home/ootcnttg/public_html/user/index.php on line 455
+[16-Feb-2022 18:37:38 America/New_York] PHP Warning:  include(auth.php): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/index.php on line 8
+[16-Feb-2022 18:37:38 America/New_York] PHP Warning:  include(auth.php): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/index.php on line 8
+[16-Feb-2022 18:37:38 America/New_York] PHP Warning:  include(): Failed opening 'auth.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ootcnttg/public_html/user/index.php on line 8
+[16-Feb-2022 18:37:38 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 399
+[16-Feb-2022 18:37:38 America/New_York] PHP Notice:  Trying to get property 'NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 399
+[16-Feb-2022 18:37:38 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 415
+[16-Feb-2022 18:37:38 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 415
+[16-Feb-2022 18:37:38 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 438
+[16-Feb-2022 18:37:38 America/New_York] PHP Notice:  Trying to get property 'EMAIL' of non-object in /home/ootcnttg/public_html/user/index.php on line 438
+[16-Feb-2022 18:37:38 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 447
+[16-Feb-2022 18:37:38 America/New_York] PHP Notice:  Trying to get property 'NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 447
+[16-Feb-2022 18:37:38 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 450
+[16-Feb-2022 18:37:38 America/New_York] PHP Notice:  Trying to get property 'AGE' of non-object in /home/ootcnttg/public_html/user/index.php on line 450
+[16-Feb-2022 18:37:38 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 452
+[16-Feb-2022 18:37:38 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 452
+[16-Feb-2022 18:37:38 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 455
+[16-Feb-2022 18:37:38 America/New_York] PHP Notice:  Trying to get property 'ACCOUNT_DATE' of non-object in /home/ootcnttg/public_html/user/index.php on line 455
+[16-Feb-2022 18:37:51 America/New_York] PHP Warning:  include(auth.php): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/index.php on line 8
+[16-Feb-2022 18:37:51 America/New_York] PHP Warning:  include(auth.php): failed to open stream: No such file or directory in /home/ootcnttg/public_html/user/index.php on line 8
+[16-Feb-2022 18:37:51 America/New_York] PHP Warning:  include(): Failed opening 'auth.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ootcnttg/public_html/user/index.php on line 8
+[16-Feb-2022 18:37:51 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 399
+[16-Feb-2022 18:37:51 America/New_York] PHP Notice:  Trying to get property 'NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 399
+[16-Feb-2022 18:37:51 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 415
+[16-Feb-2022 18:37:51 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 415
+[16-Feb-2022 18:37:51 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 438
+[16-Feb-2022 18:37:51 America/New_York] PHP Notice:  Trying to get property 'EMAIL' of non-object in /home/ootcnttg/public_html/user/index.php on line 438
+[16-Feb-2022 18:37:51 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 447
+[16-Feb-2022 18:37:51 America/New_York] PHP Notice:  Trying to get property 'NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 447
+[16-Feb-2022 18:37:51 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 450
+[16-Feb-2022 18:37:51 America/New_York] PHP Notice:  Trying to get property 'AGE' of non-object in /home/ootcnttg/public_html/user/index.php on line 450
+[16-Feb-2022 18:37:51 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 452
+[16-Feb-2022 18:37:51 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 452
+[16-Feb-2022 18:37:51 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/index.php on line 455
+[16-Feb-2022 18:37:51 America/New_York] PHP Notice:  Trying to get property 'ACCOUNT_DATE' of non-object in /home/ootcnttg/public_html/user/index.php on line 455
+[16-Feb-2022 18:38:55 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 229
+[16-Feb-2022 18:39:18 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[17-Feb-2022 13:29:55 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 399
+[17-Feb-2022 13:29:55 America/New_York] PHP Notice:  Trying to get property 'NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 399
+[17-Feb-2022 13:29:55 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 415
+[17-Feb-2022 13:29:55 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 415
+[17-Feb-2022 13:29:55 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 438
+[17-Feb-2022 13:29:55 America/New_York] PHP Notice:  Trying to get property 'EMAIL' of non-object in /home/ootcnttg/public_html/user/index.php on line 438
+[17-Feb-2022 13:29:55 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 447
+[17-Feb-2022 13:29:55 America/New_York] PHP Notice:  Trying to get property 'NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 447
+[17-Feb-2022 13:29:55 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 450
+[17-Feb-2022 13:29:55 America/New_York] PHP Notice:  Trying to get property 'AGE' of non-object in /home/ootcnttg/public_html/user/index.php on line 450
+[17-Feb-2022 13:29:55 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 452
+[17-Feb-2022 13:29:55 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 452
+[17-Feb-2022 13:29:55 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 455
+[17-Feb-2022 13:29:55 America/New_York] PHP Notice:  Trying to get property 'ACCOUNT_DATE' of non-object in /home/ootcnttg/public_html/user/index.php on line 455
+[18-Feb-2022 08:23:53 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 399
+[18-Feb-2022 08:23:53 America/New_York] PHP Notice:  Trying to get property 'NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 399
+[18-Feb-2022 08:23:53 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 415
+[18-Feb-2022 08:23:53 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 415
+[18-Feb-2022 08:23:53 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 438
+[18-Feb-2022 08:23:53 America/New_York] PHP Notice:  Trying to get property 'EMAIL' of non-object in /home/ootcnttg/public_html/user/index.php on line 438
+[18-Feb-2022 08:23:53 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 447
+[18-Feb-2022 08:23:53 America/New_York] PHP Notice:  Trying to get property 'NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 447
+[18-Feb-2022 08:23:53 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 450
+[18-Feb-2022 08:23:53 America/New_York] PHP Notice:  Trying to get property 'AGE' of non-object in /home/ootcnttg/public_html/user/index.php on line 450
+[18-Feb-2022 08:23:53 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 452
+[18-Feb-2022 08:23:53 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 452
+[18-Feb-2022 08:23:53 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 455
+[18-Feb-2022 08:23:53 America/New_York] PHP Notice:  Trying to get property 'ACCOUNT_DATE' of non-object in /home/ootcnttg/public_html/user/index.php on line 455
+[18-Feb-2022 09:55:42 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 399
+[18-Feb-2022 09:55:42 America/New_York] PHP Notice:  Trying to get property 'NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 399
+[18-Feb-2022 09:55:42 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 415
+[18-Feb-2022 09:55:42 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 415
+[18-Feb-2022 09:55:42 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 438
+[18-Feb-2022 09:55:42 America/New_York] PHP Notice:  Trying to get property 'EMAIL' of non-object in /home/ootcnttg/public_html/user/index.php on line 438
+[18-Feb-2022 09:55:42 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 447
+[18-Feb-2022 09:55:42 America/New_York] PHP Notice:  Trying to get property 'NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 447
+[18-Feb-2022 09:55:42 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 450
+[18-Feb-2022 09:55:42 America/New_York] PHP Notice:  Trying to get property 'AGE' of non-object in /home/ootcnttg/public_html/user/index.php on line 450
+[18-Feb-2022 09:55:42 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 452
+[18-Feb-2022 09:55:42 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 452
+[18-Feb-2022 09:55:42 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 455
+[18-Feb-2022 09:55:42 America/New_York] PHP Notice:  Trying to get property 'ACCOUNT_DATE' of non-object in /home/ootcnttg/public_html/user/index.php on line 455
+[18-Feb-2022 12:26:55 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 229
+[18-Feb-2022 13:22:38 America/New_York] PHP Notice:  Undefined property: stdClass::$NAME in /home/ootcnttg/public_html/user/index.php on line 399
+[18-Feb-2022 13:22:38 America/New_York] PHP Notice:  Undefined property: stdClass::$NAME in /home/ootcnttg/public_html/user/index.php on line 416
+[18-Feb-2022 13:22:38 America/New_York] PHP Notice:  Undefined property: stdClass::$NAME in /home/ootcnttg/public_html/user/index.php on line 447
+[18-Feb-2022 13:23:22 America/New_York] PHP Notice:  Undefined property: stdClass::$NAME in /home/ootcnttg/public_html/user/index.php on line 421
+[18-Feb-2022 13:23:25 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 229
+[18-Feb-2022 13:23:25 America/New_York] PHP Notice:  Undefined property: stdClass::$NAME in /home/ootcnttg/public_html/user/profile.php on line 252
+[18-Feb-2022 13:23:25 America/New_York] PHP Notice:  Undefined property: stdClass::$NAME in /home/ootcnttg/public_html/user/profile.php on line 261
+[18-Feb-2022 13:24:00 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 241
+[18-Feb-2022 13:24:16 America/New_York] PHP Notice:  Undefined property: stdClass::$NAME in /home/ootcnttg/public_html/user/index.php on line 421
+[18-Feb-2022 13:24:42 America/New_York] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE) in /home/ootcnttg/public_html/user/index.php on line 505
+[20-Feb-2022 09:13:40 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 421
+[20-Feb-2022 09:13:40 America/New_York] PHP Notice:  Trying to get property 'UR_NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 421
+[20-Feb-2022 09:13:40 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 436
+[20-Feb-2022 09:13:40 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 436
+[20-Feb-2022 09:13:40 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 459
+[20-Feb-2022 09:13:40 America/New_York] PHP Notice:  Trying to get property 'EMAIL' of non-object in /home/ootcnttg/public_html/user/index.php on line 459
+[20-Feb-2022 09:13:40 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 471
+[20-Feb-2022 09:13:40 America/New_York] PHP Notice:  Trying to get property 'UR_NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 471
+[20-Feb-2022 09:13:40 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 475
+[20-Feb-2022 09:13:40 America/New_York] PHP Notice:  Trying to get property 'AGE' of non-object in /home/ootcnttg/public_html/user/index.php on line 475
+[20-Feb-2022 09:13:40 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 478
+[20-Feb-2022 09:13:40 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 478
+[20-Feb-2022 09:13:40 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 482
+[20-Feb-2022 09:13:40 America/New_York] PHP Notice:  Trying to get property 'ACCOUNT_DATE' of non-object in /home/ootcnttg/public_html/user/index.php on line 482
+[20-Feb-2022 09:22:56 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[22-Feb-2022 12:53:09 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 421
+[22-Feb-2022 12:53:09 America/New_York] PHP Notice:  Trying to get property 'UR_NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 421
+[22-Feb-2022 12:53:09 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 436
+[22-Feb-2022 12:53:09 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 436
+[22-Feb-2022 12:53:09 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 459
+[22-Feb-2022 12:53:09 America/New_York] PHP Notice:  Trying to get property 'EMAIL' of non-object in /home/ootcnttg/public_html/user/index.php on line 459
+[22-Feb-2022 12:53:09 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 471
+[22-Feb-2022 12:53:09 America/New_York] PHP Notice:  Trying to get property 'UR_NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 471
+[22-Feb-2022 12:53:09 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 475
+[22-Feb-2022 12:53:09 America/New_York] PHP Notice:  Trying to get property 'AGE' of non-object in /home/ootcnttg/public_html/user/index.php on line 475
+[22-Feb-2022 12:53:09 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 478
+[22-Feb-2022 12:53:09 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 478
+[22-Feb-2022 12:53:09 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 482
+[22-Feb-2022 12:53:09 America/New_York] PHP Notice:  Trying to get property 'ACCOUNT_DATE' of non-object in /home/ootcnttg/public_html/user/index.php on line 482
+[22-Feb-2022 15:49:26 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 241
+[22-Feb-2022 16:03:06 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ootcnttg/public_html/user/privacy.php on line 102
+[22-Feb-2022 16:08:55 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 421
+[22-Feb-2022 16:08:55 America/New_York] PHP Notice:  Trying to get property 'UR_NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 421
+[22-Feb-2022 16:08:55 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 436
+[22-Feb-2022 16:08:55 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 436
+[22-Feb-2022 16:08:55 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 459
+[22-Feb-2022 16:08:55 America/New_York] PHP Notice:  Trying to get property 'EMAIL' of non-object in /home/ootcnttg/public_html/user/index.php on line 459
+[22-Feb-2022 16:08:55 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 471
+[22-Feb-2022 16:08:55 America/New_York] PHP Notice:  Trying to get property 'UR_NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 471
+[22-Feb-2022 16:08:55 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 475
+[22-Feb-2022 16:08:55 America/New_York] PHP Notice:  Trying to get property 'AGE' of non-object in /home/ootcnttg/public_html/user/index.php on line 475
+[22-Feb-2022 16:08:55 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 478
+[22-Feb-2022 16:08:55 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 478
+[22-Feb-2022 16:08:55 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 482
+[22-Feb-2022 16:08:55 America/New_York] PHP Notice:  Trying to get property 'ACCOUNT_DATE' of non-object in /home/ootcnttg/public_html/user/index.php on line 482
+[22-Feb-2022 17:21:57 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 241
+[23-Feb-2022 07:36:13 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 241
+[23-Feb-2022 07:36:13 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:4) in /home/ootcnttg/public_html/user/profile.php on line 317
+[23-Feb-2022 07:36:22 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 241
+[23-Feb-2022 07:36:22 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:4) in /home/ootcnttg/public_html/user/profile.php on line 322
+[23-Feb-2022 07:36:37 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 241
+[23-Feb-2022 07:36:45 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 241
+[23-Feb-2022 07:36:56 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 241
+[23-Feb-2022 07:37:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 241
+[23-Feb-2022 07:37:16 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 241
+[23-Feb-2022 10:29:27 America/New_York] PHP Notice:  Undefined index: chcpassword in /home/ootcnttg/public_html/user/privacy.php on line 104
+[23-Feb-2022 10:29:27 America/New_York] PHP Notice:  Undefined index: chpassword in /home/ootcnttg/public_html/user/privacy.php on line 105
+[23-Feb-2022 10:29:27 America/New_York] PHP Notice:  Undefined index: chpassword in /home/ootcnttg/public_html/user/privacy.php on line 108
+[23-Feb-2022 10:29:27 America/New_York] PHP Notice:  Undefined index: chpassword in /home/ootcnttg/public_html/user/privacy.php on line 117
+[23-Feb-2022 10:29:27 America/New_York] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/ootcnttg/public_html/user/privacy.php on line 121
+[23-Feb-2022 10:31:06 America/New_York] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/ootcnttg/public_html/user/privacy.php on line 122
+[23-Feb-2022 10:37:04 America/New_York] PHP Notice:  Undefined variable: POST in /home/ootcnttg/public_html/user/privacy.php on line 106
+[23-Feb-2022 10:37:04 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/privacy.php on line 107
+[23-Feb-2022 10:37:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ootcnttg/public_html/user/privacy.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/privacy.php on line 107
+[23-Feb-2022 10:37:52 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/privacy.php on line 107
+[23-Feb-2022 10:37:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ootcnttg/public_html/user/privacy.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/privacy.php on line 107
+[23-Feb-2022 10:38:14 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/privacy.php on line 106
+[23-Feb-2022 10:38:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ootcnttg/public_html/user/privacy.php:106
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/privacy.php on line 106
+[23-Feb-2022 10:38:26 America/New_York] PHP Notice:  Undefined variable: conn in /home/ootcnttg/public_html/user/privacy.php on line 106
+[23-Feb-2022 10:38:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ootcnttg/public_html/user/privacy.php:106
+Stack trace:
+#0 {main}
+  thrown in /home/ootcnttg/public_html/user/privacy.php on line 106
+[23-Feb-2022 10:45:26 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/privacy.php on line 83
+[23-Feb-2022 10:48:39 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/privacy.php on line 83
+[23-Feb-2022 15:43:09 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/change-p.php on line 40
+[23-Feb-2022 15:43:25 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/change-p.php on line 40
+[23-Feb-2022 15:44:28 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/change-p.php on line 40
+[23-Feb-2022 15:47:30 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/change-p.php on line 40
+[23-Feb-2022 15:52:59 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/change-p.php on line 40
+[23-Feb-2022 15:53:15 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/change-p.php on line 40
+[23-Feb-2022 15:53:49 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/change-p.php on line 40
+[23-Feb-2022 15:54:42 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/change-p.php on line 40
+[23-Feb-2022 15:55:27 America/New_York] PHP Notice:  Undefined index: ID in /home/ootcnttg/public_html/user/change-password.php on line 42
+[23-Feb-2022 17:38:24 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/change-p.php on line 39
+[23-Feb-2022 17:38:24 America/New_York] PHP Notice:  Trying to get property 'ID' of non-object in /home/ootcnttg/public_html/user/change-p.php on line 39
+[23-Feb-2022 17:40:20 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/change-p.php on line 39
+[23-Feb-2022 17:40:20 America/New_York] PHP Notice:  Trying to get property 'ID' of non-object in /home/ootcnttg/public_html/user/change-p.php on line 39
+[23-Feb-2022 17:40:31 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/change-p.php on line 39
+[23-Feb-2022 17:40:31 America/New_York] PHP Notice:  Trying to get property 'ID' of non-object in /home/ootcnttg/public_html/user/change-p.php on line 39
+[23-Feb-2022 17:41:48 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/change-p.php on line 40
+[23-Feb-2022 17:41:48 America/New_York] PHP Notice:  Trying to get property 'ID' of non-object in /home/ootcnttg/public_html/user/change-p.php on line 40
+[23-Feb-2022 17:41:57 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/change-p.php on line 40
+[23-Feb-2022 17:41:57 America/New_York] PHP Notice:  Trying to get property 'ID' of non-object in /home/ootcnttg/public_html/user/change-p.php on line 40
+[23-Feb-2022 17:42:27 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/change-p.php on line 40
+[23-Feb-2022 17:42:27 America/New_York] PHP Notice:  Trying to get property 'ID' of non-object in /home/ootcnttg/public_html/user/change-p.php on line 40
+[23-Feb-2022 17:54:43 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/change-p.php on line 40
+[23-Feb-2022 17:54:44 America/New_York] PHP Notice:  Trying to get property 'ID' of non-object in /home/ootcnttg/public_html/user/change-p.php on line 40
+[23-Feb-2022 17:54:44 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/change-p.php on line 44
+[23-Feb-2022 17:54:44 America/New_York] PHP Notice:  Trying to get property 'ID' of non-object in /home/ootcnttg/public_html/user/change-p.php on line 44
+[26-Feb-2022 12:28:23 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 241
+[26-Feb-2022 12:35:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 249
+[26-Feb-2022 12:35:34 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 8
+[26-Feb-2022 12:35:34 America/New_York] PHP Notice:  Trying to get property 'UR_NAME' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 8
+[26-Feb-2022 12:35:34 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 10
+[26-Feb-2022 12:35:34 America/New_York] PHP Notice:  Trying to get property 'AGE' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 10
+[26-Feb-2022 12:35:34 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 12
+[26-Feb-2022 12:35:34 America/New_York] PHP Notice:  Trying to get property 'PASSWORD' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 12
+[26-Feb-2022 12:35:34 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 14
+[26-Feb-2022 12:35:34 America/New_York] PHP Notice:  Trying to get property 'ID' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 14
+[26-Feb-2022 12:35:34 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 249
+[26-Feb-2022 12:35:37 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 8
+[26-Feb-2022 12:35:37 America/New_York] PHP Notice:  Trying to get property 'UR_NAME' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 8
+[26-Feb-2022 12:35:37 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 10
+[26-Feb-2022 12:35:37 America/New_York] PHP Notice:  Trying to get property 'AGE' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 10
+[26-Feb-2022 12:35:37 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 12
+[26-Feb-2022 12:35:37 America/New_York] PHP Notice:  Trying to get property 'PASSWORD' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 12
+[26-Feb-2022 12:35:37 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 14
+[26-Feb-2022 12:35:37 America/New_York] PHP Notice:  Trying to get property 'ID' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 14
+[26-Feb-2022 12:35:37 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 249
+[26-Feb-2022 12:35:40 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 8
+[26-Feb-2022 12:35:40 America/New_York] PHP Notice:  Trying to get property 'UR_NAME' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 8
+[26-Feb-2022 12:35:40 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 10
+[26-Feb-2022 12:35:40 America/New_York] PHP Notice:  Trying to get property 'AGE' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 10
+[26-Feb-2022 12:35:40 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 12
+[26-Feb-2022 12:35:40 America/New_York] PHP Notice:  Trying to get property 'PASSWORD' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 12
+[26-Feb-2022 12:35:40 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 14
+[26-Feb-2022 12:35:40 America/New_York] PHP Notice:  Trying to get property 'ID' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 14
+[26-Feb-2022 12:35:40 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 249
+[26-Feb-2022 12:35:41 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 8
+[26-Feb-2022 12:35:41 America/New_York] PHP Notice:  Trying to get property 'UR_NAME' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 8
+[26-Feb-2022 12:35:41 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 10
+[26-Feb-2022 12:35:41 America/New_York] PHP Notice:  Trying to get property 'AGE' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 10
+[26-Feb-2022 12:35:41 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 12
+[26-Feb-2022 12:35:41 America/New_York] PHP Notice:  Trying to get property 'PASSWORD' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 12
+[26-Feb-2022 12:35:41 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 14
+[26-Feb-2022 12:35:41 America/New_York] PHP Notice:  Trying to get property 'ID' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 14
+[26-Feb-2022 12:35:41 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 249
+[26-Feb-2022 12:35:42 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 8
+[26-Feb-2022 12:35:42 America/New_York] PHP Notice:  Trying to get property 'UR_NAME' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 8
+[26-Feb-2022 12:35:42 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 10
+[26-Feb-2022 12:35:42 America/New_York] PHP Notice:  Trying to get property 'AGE' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 10
+[26-Feb-2022 12:35:42 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 12
+[26-Feb-2022 12:35:42 America/New_York] PHP Notice:  Trying to get property 'PASSWORD' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 12
+[26-Feb-2022 12:35:42 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 14
+[26-Feb-2022 12:35:42 America/New_York] PHP Notice:  Trying to get property 'ID' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 14
+[26-Feb-2022 12:35:42 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 249
+[26-Feb-2022 12:35:51 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 8
+[26-Feb-2022 12:35:51 America/New_York] PHP Notice:  Trying to get property 'UR_NAME' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 8
+[26-Feb-2022 12:35:51 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 10
+[26-Feb-2022 12:35:51 America/New_York] PHP Notice:  Trying to get property 'AGE' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 10
+[26-Feb-2022 12:35:51 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 12
+[26-Feb-2022 12:35:51 America/New_York] PHP Notice:  Trying to get property 'PASSWORD' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 12
+[26-Feb-2022 12:35:51 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 14
+[26-Feb-2022 12:35:51 America/New_York] PHP Notice:  Trying to get property 'ID' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 14
+[26-Feb-2022 12:35:51 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 249
+[26-Feb-2022 12:35:52 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 8
+[26-Feb-2022 12:35:52 America/New_York] PHP Notice:  Trying to get property 'UR_NAME' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 8
+[26-Feb-2022 12:35:52 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 10
+[26-Feb-2022 12:35:52 America/New_York] PHP Notice:  Trying to get property 'AGE' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 10
+[26-Feb-2022 12:35:52 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 12
+[26-Feb-2022 12:35:52 America/New_York] PHP Notice:  Trying to get property 'PASSWORD' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 12
+[26-Feb-2022 12:35:52 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 14
+[26-Feb-2022 12:35:52 America/New_York] PHP Notice:  Trying to get property 'ID' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 14
+[26-Feb-2022 12:35:52 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 249
+[26-Feb-2022 12:36:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[26-Feb-2022 12:36:31 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 8
+[26-Feb-2022 12:36:31 America/New_York] PHP Notice:  Trying to get property 'UR_NAME' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 8
+[26-Feb-2022 12:36:31 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 10
+[26-Feb-2022 12:36:31 America/New_York] PHP Notice:  Trying to get property 'AGE' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 10
+[26-Feb-2022 12:36:31 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 12
+[26-Feb-2022 12:36:31 America/New_York] PHP Notice:  Trying to get property 'PASSWORD' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 12
+[26-Feb-2022 12:36:31 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ootcnttg/public_html/user/users-ajax.php on line 14
+[26-Feb-2022 12:36:31 America/New_York] PHP Notice:  Trying to get property 'ID' of non-object in /home/ootcnttg/public_html/user/users-ajax.php on line 14
+[26-Feb-2022 12:36:31 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[26-Feb-2022 12:36:31 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:4) in /home/ootcnttg/public_html/user/profile.php on line 321
+[26-Feb-2022 12:36:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[26-Feb-2022 12:37:25 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[26-Feb-2022 12:37:30 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[26-Feb-2022 12:37:30 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:4) in /home/ootcnttg/public_html/user/profile.php on line 321
+[26-Feb-2022 12:37:32 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[26-Feb-2022 12:37:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[26-Feb-2022 12:37:36 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:4) in /home/ootcnttg/public_html/user/profile.php on line 321
+[26-Feb-2022 12:37:39 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[26-Feb-2022 12:37:56 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[26-Feb-2022 20:26:58 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[26-Feb-2022 20:26:58 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:4) in /home/ootcnttg/public_html/user/profile.php on line 334
+[27-Feb-2022 12:43:37 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[27-Feb-2022 12:43:55 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[27-Feb-2022 12:44:10 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[27-Feb-2022 12:44:16 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[27-Feb-2022 13:09:38 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[27-Feb-2022 13:09:48 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[27-Feb-2022 13:09:48 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:4) in /home/ootcnttg/public_html/user/profile.php on line 321
+[27-Feb-2022 13:09:52 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[27-Feb-2022 13:09:56 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[27-Feb-2022 15:59:50 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[27-Feb-2022 16:00:23 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[27-Feb-2022 17:28:33 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[01-Mar-2022 07:20:37 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[01-Mar-2022 07:20:53 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[01-Mar-2022 07:20:53 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:4) in /home/ootcnttg/public_html/user/profile.php on line 321
+[01-Mar-2022 07:20:56 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[01-Mar-2022 07:21:17 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[01-Mar-2022 07:21:17 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:4) in /home/ootcnttg/public_html/user/profile.php on line 321
+[01-Mar-2022 07:21:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[01-Mar-2022 07:21:53 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[01-Mar-2022 07:22:21 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[02-Mar-2022 16:23:20 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[02-Mar-2022 16:24:02 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[02-Mar-2022 16:24:10 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[02-Mar-2022 16:24:10 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:4) in /home/ootcnttg/public_html/user/profile.php on line 321
+[02-Mar-2022 16:24:17 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[02-Mar-2022 16:24:25 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[02-Mar-2022 16:24:25 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:4) in /home/ootcnttg/public_html/user/profile.php on line 321
+[02-Mar-2022 16:24:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[05-Mar-2022 10:44:28 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 421
+[05-Mar-2022 10:44:28 America/New_York] PHP Notice:  Trying to get property 'UR_NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 421
+[05-Mar-2022 10:44:28 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 436
+[05-Mar-2022 10:44:28 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 436
+[05-Mar-2022 10:44:28 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 459
+[05-Mar-2022 10:44:28 America/New_York] PHP Notice:  Trying to get property 'EMAIL' of non-object in /home/ootcnttg/public_html/user/index.php on line 459
+[05-Mar-2022 10:44:28 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 471
+[05-Mar-2022 10:44:28 America/New_York] PHP Notice:  Trying to get property 'UR_NAME' of non-object in /home/ootcnttg/public_html/user/index.php on line 471
+[05-Mar-2022 10:44:28 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 475
+[05-Mar-2022 10:44:28 America/New_York] PHP Notice:  Trying to get property 'AGE' of non-object in /home/ootcnttg/public_html/user/index.php on line 475
+[05-Mar-2022 10:44:28 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 478
+[05-Mar-2022 10:44:28 America/New_York] PHP Notice:  Trying to get property 'ROLE' of non-object in /home/ootcnttg/public_html/user/index.php on line 478
+[05-Mar-2022 10:44:28 America/New_York] PHP Notice:  Undefined index: user in /home/ootcnttg/public_html/user/index.php on line 482
+[05-Mar-2022 10:44:28 America/New_York] PHP Notice:  Trying to get property 'ACCOUNT_DATE' of non-object in /home/ootcnttg/public_html/user/index.php on line 482
+[06-Mar-2022 06:36:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[06-Mar-2022 10:59:36 America/New_York] PHP Notice:  Undefined index: my_image in /home/ootcnttg/public_html/user/upload-script.php on line 36
+[11-Mar-2022 16:47:51 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[18-Mar-2022 07:10:45 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ootcnttg/public_html/user/profile.php on line 253
+[18-Mar-2022 07:10:45 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ootcnttg/public_html/user/profile.php:4) in /home/ootcnttg/public_html/user/profile.php on line 329
