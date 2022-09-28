@@ -43,6 +43,8 @@ button {
 
 
     <?php
+    require_once '../connectToDatabase.php';
+    require_once '../db_conn.php';
 
     if (!isset($_GET['code'])) {
         echo '<div class="container">
@@ -88,7 +90,7 @@ Update
 
     <?php
     if (isset($_POST['resetPassword'])) {
-        require_once '../user/db_conn.php';
+
 
         $userEmail =  $_POST['email'];
 
@@ -103,11 +105,15 @@ Update
             $mail->Subject = "Reset Password";
             $mail->Body = ' 
         رابط لإعادة تعيين كلمة المرور 
-        <br> ;
-        ' . '<a style="color: red;" href="http://ootcku.xyz/loginup/reset?email=' . $_POST['email'] .
+        <br> 
+        http://otcku.great-site.net/loginup/reset?email=' . $_POST['email'] .
+                '&code=' . $user->SECURITY_CODE . '
+        <br>
+        <br>
+        ' . '<a href="http://otcku.great-site.net/loginup/reset?email=' . $_POST['email'] .
                 '&code=' . $user->SECURITY_CODE . '">Reset Your Passwoe</a>';
 
-            $mail->setFrom("ootcku@gmail.com", "Otcku");
+            $mail->setFrom("jfroosama10@gmail.com", "Rest");
             $mail->send();
             echo '
         <div class="alert alert-success mt-3"> 
@@ -128,7 +134,6 @@ Update
     <?php
 
     if (isset($_POST['newPassword'])) {
-        require_once '../connectToDatabase.php';
 
         $cpassword = $_POST['cpassword'];
         $password = $_POST['password'];
@@ -141,26 +146,52 @@ Update
       </div>';
             exit();
         }
-        $updatePassword = $database->prepare("UPDATE users SET PASSWORD 
-   = :password WHERE EMAIL = :email");
-        $passwordUser = sha1($_POST['password']);
-        $updatePassword->bindParam("password", $passwordUser);
-        $updatePassword->bindParam("email", $_GET['email']);
+        $userEmail =  $_GET['email'];
+        $user = "SELECT EMAIL,SECURITY_CODE FROM users WHERE EMAIL = '$userEmail'";
 
-        if ($updatePassword->execute()) {
-            echo '
+        $checkUser = $conn->query($user);
+        // $verify = $checkUser->num_rows;
+
+        $user = $checkUser->fetch_object();
+
+        if ($_GET['code'] !== $user->SECURITY_CODE) {
+            echo '<div class="alert alert-danger" role="alert">
+            هذا الرابط لم يعد صالحا للأستخدام
+          </div>';
+
+            echo '<a class="btn btn-danger" href="../loginup/login.php">تسجيل دخول</a>';
+        } else {
+
+
+
+            $updatePassword = $database->prepare("UPDATE users SET PASSWORD 
+        = :password,SECURITY_CODE = :NEWSECURITY_CODE WHERE EMAIL = :email and SECURITY_CODE = :SECURITY_CODE");
+            $passwordUser = sha1($_POST['password']);
+            $updatePassword->bindParam("password", $passwordUser);
+            $updatePassword->bindParam("email", $_GET['email']);
+            $securityCode = md5(date("h:i:s"));
+            $updatePassword->bindParam("NEWSECURITY_CODE", $securityCode);
+            $updatePassword->bindParam("SECURITY_CODE", $_GET['code']);
+
+            if ($updatePassword->execute()) {
+                echo '
     <div class="alert alert-success mt-3">
     تم إعادة تعيين كلمة المرور بنجاح
     </div> 
     ';
-        } else {
-            echo '
+            } else {
+                echo '<a class="btn btn-danger" href="../loginup/login.php">تسجيل دخول</a>';
+
+                echo '
     <div class="alert alert-danger mt-3">
     فشل إعادة تعيين كلمة المرور 
     </div>
+
     ';
+            }
         }
     }
+
 
     ?>
 
