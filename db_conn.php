@@ -3,11 +3,11 @@
 //  $password = "JfrO20033";
 //  $database = new PDO("mysql:host=localhost; dbname=ootcnttg_otckum;",$username, $password);
 
-$sname = "mysql.ootcku.xyz";
-$uname = "jfroo";
-$password = "JfrO20033";
+$sname = "";
+$uname = "";
+$password = "";
 
-$db_name = "ootcnttg_otckum";
+$db_name = "";
 
 $conn = mysqli_connect($sname, $uname, $password, $db_name);
 
